@@ -7,3 +7,4 @@ MarkupSafe   ==2.1.5
 pip          ==24.2
 setuptools   ==65.5.0
 Werkzeug     ==3.0.4
+gunicorn
